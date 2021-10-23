@@ -1,2 +1,2 @@
 # Sort-Analysis
-In main.cpp proramul este creat sa testeze siruri deja sortate. Pentru a rula pe siruri nesortate trebuiesc puse in comentariu liniile de cod din try unde vectorul se sorteaza cu functia sort.
+This is a project for Data Structure course. It contains some of the most known sorting method: Bubble Sort, Count Sort, Radix Sort, Merge Sort, Quick Sort. These are written in C++ and with python file I made diagrams based on tests.
